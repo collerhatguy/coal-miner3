@@ -1,0 +1,43 @@
+:root {
+  --primary-color: brown;
+  --secondary-color: black;
+  --max-font: 3rem;
+}
+* {
+  padding: .2em;
+  width: fit-content;
+  margin: .1em auto;
+}
+body {
+  height: 98vh;
+  width: 95vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+h1 {
+  font-size: var(--max-font);
+}
+h2, button {
+  font-size: calc(var(--max-font) / 1.618);
+}
+#upgradeContainer, #buyContainer {
+  border: .5em solid black;
+}
+
+/* 
+#display,
+#upgradeContainer {
+  display: flex;
+  justify-content: center;
+  height: 30vh;
+}
+h1, h2 {
+  display: block;
+}
+button {
+  margin-top: 10px;
+  padding: 1em;
+} */
