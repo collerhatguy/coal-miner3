@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coal-miner3/static/css/main.42482c18.chunk.css",
+    "main.js": "/coal-miner3/static/js/main.58a35b8b.chunk.js",
+    "main.js.map": "/coal-miner3/static/js/main.58a35b8b.chunk.js.map",
+    "runtime-main.js": "/coal-miner3/static/js/runtime-main.316fd9cd.js",
+    "runtime-main.js.map": "/coal-miner3/static/js/runtime-main.316fd9cd.js.map",
+    "static/js/2.3b8cf60b.chunk.js": "/coal-miner3/static/js/2.3b8cf60b.chunk.js",
+    "static/js/2.3b8cf60b.chunk.js.map": "/coal-miner3/static/js/2.3b8cf60b.chunk.js.map",
+    "index.html": "/coal-miner3/index.html",
+    "static/css/main.42482c18.chunk.css.map": "/coal-miner3/static/css/main.42482c18.chunk.css.map",
+    "static/js/2.3b8cf60b.chunk.js.LICENSE.txt": "/coal-miner3/static/js/2.3b8cf60b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316fd9cd.js",
+    "static/js/2.3b8cf60b.chunk.js",
+    "static/css/main.42482c18.chunk.css",
+    "static/js/main.58a35b8b.chunk.js"
+  ]
+}
